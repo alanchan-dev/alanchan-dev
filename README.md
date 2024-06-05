@@ -1,4 +1,4 @@
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/alanchan)
+[!["Support me at Ko-fi"](https://github.com/alanchan-dev/alanchan-dev/blob/a59c6192eea36b41925288abe5cf70632d76ef18/ko-fi%20support.jpg)](https://ko-fi.com/alanchan94)
 
 # Hi there! 👋 
 
