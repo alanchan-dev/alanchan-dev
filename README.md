@@ -26,15 +26,6 @@ I am currently working on [Project Name], a [Project Description]. I am also con
 - LinkedIn: [Your LinkedIn Profile]
 -->
 
-## My Stats
-
-[![Alan Chan's GitHub stats](https://github-readme-stats.vercel.app/api?username=alanchan-dev&show_icons=true&theme=dracula)](https://github.com/alanchan-dev)
-
-
-## My Top Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanchan-dev&layout=compact&theme=dracula)](https://github.com/alanchan-dev)
-
 
 
 Thank you for stopping by! Let's connect and build something amazing together.
