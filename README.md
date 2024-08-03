@@ -12,6 +12,7 @@ I am always looking for new challenges and opportunities to grow and learn. Outs
 
 - Flutter
 - Android Native (Kotlin, Compose)
+- Firebase
 
 <!--
 ## What I'm Working On
