@@ -1,5 +1,3 @@
-[!["Support me at Ko-fi"](https://github.com/alanchan-dev/alanchan-dev/blob/a59c6192eea36b41925288abe5cf70632d76ef18/ko-fi%20support.jpg)](https://ko-fi.com/alanchan94)
-
 # Hi there! 👋 
 
 I'm Alan Chan, a passionate developer with a love for Flutter. Welcome to my Github profile! 
